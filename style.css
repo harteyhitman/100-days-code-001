@@ -172,7 +172,8 @@ button{
     color: #f0f0f0;
     padding: 15px;
     border: none;
-    border-radius: 10px;
+
+    border-radius: 11px;
     width: 200px;
     height: 60px;
     position: absolute;
